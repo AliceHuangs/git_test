@@ -4,8 +4,6 @@ ccc
 ggggggggggggg
 eeee
 dddd
-<<<<<<< HEAD
 hhhhhhhhhhhhhhhh
-=======
 fffffffffffff
->>>>>>> dd73b85eba6e789d4abdc8cc94cfd236aac4cca6
+
